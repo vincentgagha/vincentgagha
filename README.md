@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vincentgagha
-- 👀 I’m interested in REDACTED
-- 🌱 I’m currently learning REDACTED
-- 💞️ I’m looking to collaborate on REDACTED
-- 📫 How to reach me REDACTED
+- 👀 I’m interested in games and anime or anything that is fun
+- 🌱 I’m currently learning at university of Klabat in Indonesia
+- 📫 How to reach me vincentgagha@gmail.com
 
 <!---
 vincentgagha/vincentgagha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
